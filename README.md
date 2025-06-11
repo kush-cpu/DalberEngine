@@ -1,3 +1,9 @@
+# Update - 2 Added RayTracing - SVGF implemented
+
+![MainVideo](https://youtu.be/fQKWFNeS3HM)
+
+
+
 ![Main Image](/screenshot/main_screenshot.jpg)
 
 ![](https://thumbs.gfycat.com/DescriptiveFatGalapagoshawk-size_restricted.gif)
@@ -6,7 +12,7 @@
 
 My personal game engine project powered by Vulkan.
 
-My goal is to catch up my previous [OpenGL game engine project](https://github.com/SausageTaste/Little-Ruler) in terms of rendering techniques and image quality.
+Built using Sponza
 
 Supported platforms are Windows, Linux and Android.
 
