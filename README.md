@@ -1,6 +1,6 @@
 # Update - 2 Added RayTracing - SVGF implemented
 
-![MainVideo](./screenshot/SVGF.mp4)
+![MainVideo](./screenshot/SVGF.gif)
 
 
 
